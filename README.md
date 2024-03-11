@@ -7,6 +7,10 @@ Tester pro oveření správnosti zapojení RS/RS a RS/RJ kabelů
 
 ### Správné zapojení kabelu RS-RJ, naprázdno spuštěné RS-RS
 
+
+https://github.com/HonzaAntos/cable_tester/assets/112206462/2ee807a3-5a7c-4ff5-8fe7-7d4e6790e872
+
+
 ### Správné zapojení RS-RS a chybné zapojení
 
 
